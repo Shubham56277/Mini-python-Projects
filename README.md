@@ -1,1 +1,1 @@
-mini projects
+journey of my python learning
